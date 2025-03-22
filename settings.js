@@ -1,8 +1,8 @@
 global.bankname = "MONIEPOINT"
 
-global.banknumber = "50943098795"
+global.banknumber = "50948550767"
 
-global.bankowner = "𓄂⍣⃝𝐆𝚯𝐃🌹✮͢≛⃝𝐊𝚵𝚴𝚸𝚫𝐂𝚮𝚰🪽𝄟✮⃝👑"
+global.bankowner = "⃟𝐋𝐎𝐑𝐄𝐍  𓊈🌹𓊉𝚳𝚰𝐊𝚫𝚵𝐋𝐒𝚯𝚴 ᭄۞"
 
 global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
